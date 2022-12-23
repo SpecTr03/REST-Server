@@ -1,4 +1,4 @@
- align="center">Webserver application</h1>
+<h1 align="center">Webserver application</h1>
 <p>This REST Server project, processes HTTP requests, image uploads (in cloudinary), token validations (JWT), user creation/validations, user authentication, Google Sign In, password encryption, image updates, etc, plus it centralizes the code very well, its scaffolding is manageable and covers many of the basic topics that a backend developer should know.
 </p>
 
