@@ -46,4 +46,4 @@
 <img src="https://user-images.githubusercontent.com/64670953/177218510-1abd1b80-4f8f-4747-bed1-686a615a951a.svg" alt="visualstudiocode" width="40" height="40"/> </a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="visualstudiocode" width="40" height="40"/> </a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="visualstudiocode" width="40" height="40"/> </a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="visualstudiocode" width="40" height="40"/> </a>s
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="visualstudiocode" width="40" height="40"/> </a>
